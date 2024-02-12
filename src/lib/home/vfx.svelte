@@ -25,7 +25,7 @@
           <div class="lg:pr-8 lg:pt-4">
             <div class="lg:max-w-lg">
               <h2 class="text-lg font-semibold leading-8 tracking-tight text-ap_dark_gray">EDIT/ VFX</h2>
-              <p class="mt-2 text-3xl font-bold tracking-tight text-ap_dark_gray sm:text-4xl">FAT8 MEDIA IS AN INDEPENDENT, CREATIVELY DRIVEN FULL-SERVICE
+              <p class="mt-2 text-3xl font-bold tracking-tight text-ap_dark_gray sm:text-4xl">PORTA PRODUCTIONS IS AN INDEPENDENT, CREATIVELY DRIVEN FULL-SERVICE
                 VIDEO PRODUCTION COMPANY DESIGNED TO TAKE A PROJECT FROM 
                 CONCEPT TO PACKAGING, ENSURING THAT OUR CLIENT'S VISION BECOMES A REALITY.
               </p>
