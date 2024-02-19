@@ -485,7 +485,7 @@ let Xf = './covers/xfinity.webp'
               <div
                 class="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed bg-[hsla(0,0%,0%,0.3)]">
                 <div class="flex h-full items-end justify-start">
-                  <h5 class="m-6 text-lg font-bold text-white">
+                  <h5 class="m-6 text-md font-bold text-white">
                     Xfinity<br>Not All Christian McCaffrey's Are The Same<br>(VFX, Cleanup)
                   </h5>
                 </div>
