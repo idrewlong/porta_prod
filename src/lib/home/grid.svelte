@@ -20,6 +20,7 @@ let House = './covers/house.webp';
 let Bryce = './covers/bryce.webp';
 let Couple = './covers/couple.webp';
 let Yg = './covers/yg.webp';
+let Xf = './covers/xfinity.webp'
 </script>
 
 
@@ -476,16 +477,16 @@ let Yg = './covers/yg.webp';
           </div>
 
           <!-- Video 21 -->
-          <!-- <div class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
+          <div class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
             data-te-ripple-init data-te-ripple-color="dark">
-            <img src={Khalid} alt="Khalid - Present (VFX, Cleanup)"
+            <img src={Xf} alt="XFINITY - Not All Christian McCaffrey's Are The Same: "
               class="w-full h-full align-middle transition duration-300 ease-linear" />
-            <a href="https://www.youtube.com/embed/6ePXH3-Tk4c?si=pgxqt0WM__NkAj8v">
+            <a href="https://www.sportsbusinessjournal.com/Articles/2024/02/08/xfinity-christian-mccaffrey-ad-whistle?issue=05901d3b71df4126b05050f1b59c2af0&publicationSource=SBD#:~:text=The%20spot%2C%20created%20by%20Whistle,footballs%20and%20pushing%20a%20tackling">
               <div
                 class="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed bg-[hsla(0,0%,0%,0.3)]">
                 <div class="flex h-full items-end justify-start">
                   <h5 class="m-6 text-lg font-bold text-white">
-                    Khalid<br>Present<br>(VFX, Cleanup)
+                    Xfinity<br>Not All Christian McCaffrey's Are The Same<br>(VFX, Cleanup)
                   </h5>
                 </div>
               </div>
@@ -495,7 +496,7 @@ let Yg = './covers/yg.webp';
                 </div>
               </div>
             </a>
-          </div> -->
+          </div>
 
 
 

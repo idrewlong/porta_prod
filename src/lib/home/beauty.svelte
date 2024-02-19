@@ -24,9 +24,7 @@
           <div class="lg:pr-8 lg:pt-4">
             <div class="lg:max-w-lg">
               <h2 class="text-lg font-semibold leading-8 tracking-tight text-ap_dark_gray uppercase">Beauty</h2>
-              <p class="mt-2 text-3xl font-bold tracking-tight text-ap_dark_gray sm:text-4xl">PORTA PRODUCTIONS IS AN INDEPENDENT, CREATIVELY DRIVEN FULL-SERVICE
-                VIDEO PRODUCTION COMPANY DESIGNED TO TAKE A PROJECT FROM 
-                CONCEPT TO PACKAGING, ENSURING THAT OUR CLIENT'S VISION BECOMES A REALITY.
+              <p class="mt-2 text-3xl font-bold tracking-tight text-ap_dark_gray sm:text-4xl uppercase">retouching services aim to enhance the natural appeal of visuals. Focusing on improving lighting, skin texture, and color to make every shot look its best, ensuring every project shines
               </p>
           
             </div>
