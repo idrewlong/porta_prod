@@ -27,7 +27,7 @@ let Xf = './covers/xfinity.webp'
 <div id="Portfolio" class="container my-24 mx-auto md:px-6">
       <!-- Section: Design Block -->
       <section class="mb-32">
-        <h2 class="mb-12 text-center text-3xl font-bold text-ap_dark_gray uppercase">
+        <h2 class="mb-12 text-center text-4xl md:text-5xl font-bold text-ap_dark_gray uppercase">
           Portfolio
         </h2>
 
