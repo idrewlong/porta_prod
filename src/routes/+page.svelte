@@ -9,7 +9,6 @@ import Hero from "$lib/home/hero.svelte";
 	import Cleanup from '$lib/home/cleanup.svelte';
 	import Direct from '$lib/home/direct.svelte';
 	import BackToTop from "$lib/home/BackToTop.svelte";
-	import Contact2 from '$lib/home/contact2.svelte';
 
 </script>
 

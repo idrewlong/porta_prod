@@ -4,7 +4,7 @@
       Interested in <br /> Working Together?
     </h2>
     <a href="mailto:ariel@porta.productions" role="button"
-       class="mb-2 inline-block rounded bg-gradient-to-br from-ap_navy to-ap_dark_gray hover:opacity-80 duration-200 px-8 py-3 font-medium text-white transition md:mr-2 md:mb-0"
+       class="mb-2 inline-block rounded bg-gradient-to-br from-ap_navy to-ap_dark_gray hover:opacity-90 duration-200 px-8 py-3 font-medium text-white transition md:mr-2 md:mb-0"
        data-te-ripple-init data-te-ripple-color="light">
       Email
     </a>
