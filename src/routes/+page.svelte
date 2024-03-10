@@ -2,19 +2,20 @@
 	import Beauty from './../lib/home/beauty.svelte';
 	import Vfx from './../lib/home/vfx.svelte';
 	import About from "$lib/home/about.svelte";
-	import Brands from "$lib/home/brands.svelte";
+	// import Brands from "$lib/home/brands.svelte";
 	import Contact from "$lib/home/contact.svelte";
 	import Grid from "$lib/home/grid.svelte";
 import Hero from "$lib/home/hero.svelte";
 	import Cleanup from '$lib/home/cleanup.svelte';
 	import Direct from '$lib/home/direct.svelte';
 	import BackToTop from "$lib/home/BackToTop.svelte";
+	import Brand2 from '$lib/home/brand2.svelte';
 
 </script>
 
 <Hero/>
+<Brand2/>
 <About/>
-<Brands/>
 <Direct/>
 <Vfx/>
 <Beauty/>

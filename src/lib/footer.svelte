@@ -60,7 +60,7 @@
               </a> -->
           </div>
           <p class="mt-8 text-base leading-6 text-center text-gray-400">
-              © 2024 Ariel Porta All rights reserved. <br> created by <a class="hover:underline hover:text-orange-400 duration-300 transition" href="www.idrewlong.com">id-dev</a>
+              © 2024 Ariel Porta All rights reserved. <br> created by <a class="hover:underline hover:text-orange-400 duration-300 transition" href="http://www.idrewlong.com">id-dev</a>
           </p>
       </div>
   </section>
